@@ -2,7 +2,8 @@
 
 **Instituição:** Faculdade de Tecnologia de Franca (Fatec Franca) \- "Dr. Thomaz Novelino"  
 **Disciplina:** Mineração de Dados  
-**Professora:** Jaqueline Brigladori Pugliesi
+**Professora:** Jaqueline Brigladori Pugliesi  
+**Aluno:** Vinicius de Araújo Silva
 
 ## Sobre o Projeto
 
